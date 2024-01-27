@@ -1,0 +1,48 @@
+body{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Roboto', sans-serif; 
+  }
+  .callofduty{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+  }
+  
+  
+  
+  .legocity{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+  }
+  
+  
+  .marioparty{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+  
+  }
+  
+  img{
+    width: 100%;
+    padding-top: 25px;
+  }
+  span{
+    float: right;
+    padding-right: 10px;
+  }
+  p{
+    padding-top: 20px;
+    padding-left:  20px; ;
+    padding-right: 20px;
+  }
+  
+  h1{
+    padding-left: 10px;
+  
+  }
